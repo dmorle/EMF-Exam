@@ -1,0 +1,13 @@
+name: Take-Home-Exam
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - jupyter
+  - pyvista
+  - numpy
+  - itkwidgets
+  - scipy
+prefix: /home/dario/anaconda3/envs/Take-Home-Exam
+
